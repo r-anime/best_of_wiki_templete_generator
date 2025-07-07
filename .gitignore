@@ -47,5 +47,6 @@ build/
 *.xlsx
 *.csv
 
+!Dockerfile
 
 
